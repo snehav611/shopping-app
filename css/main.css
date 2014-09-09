@@ -1,0 +1,55 @@
+* {
+	font-family: "Comic Sans MS";
+}
+html {
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 100%;
+	background-position: top-center;
+}
+.shopping {
+	background-image: url("../images/shopping.jpg");
+	position: relative; 
+	margin-left: auto;
+	margin-right: auto;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	width: 819px;
+	height: 190px;
+	font-size: 16px;
+	color: #003366;
+}
+.top {
+	font-size: 32px;
+	font-weight: bold;
+	padding-top: 20px;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center;
+}
+.instructions {
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: 10px;
+	display: block;
+	text-align: left;
+	margin-left: 100px;
+	line-height: 195%;
+}
+label {
+	font-size: 16px;
+	font-weight: normal;
+	display: block;
+	text-align: center;
+}
+.addItem {
+	background-image: url("../images/list.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	width: 819px;
+	height: 35px;
+}
